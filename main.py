@@ -139,3 +139,7 @@ def menu():
             break
         else:
             print("Выберите верный пункт меню")
+
+
+if __name__ == "__main__":
+    menu()
